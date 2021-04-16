@@ -1,6 +1,6 @@
 # The Health Costs of Political Identity: Evidence from the U.S. from the COVID-19 Pandemic
 
-This repository contains the replication Materials (STATA code and the dataset) for the working paper "The Health Costs of Political Identity: Evidence from the U.S. from the COVID-19 Pandemic" . The dataset provided here has been compiled using numerous data sources listed below.
+This repository contains the replication materials (STATA code and the dataset) for the working paper "The Health Costs of Political Identity: Evidence from the U.S. from the COVID-19 Pandemic" . The dataset provided here has been compiled using numerous data sources listed below.
 
 ## Data
 

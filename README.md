@@ -12,5 +12,5 @@ This repository contains the replication Materials (STATA code and the dataset) 
 - Abortion clinics: [State-level CDC/Guttmacher Institute data on the number of abortion clinics per million residents](https://data.guttmacher.org/states)
 
 ## Authors
-Sahiba Chopra and Bruce Wydick 
+Sahiba Chopra and Professor Bruce Wydick 
 
